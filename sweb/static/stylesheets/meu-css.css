@@ -1,0 +1,24 @@
+.icones{
+	
+	font-size: 85px;
+	margin: auto;
+}
+
+.ca-menu li a{
+	text-align: center;
+}
+
+.ca-menu li a:hover{
+	color: #FFF;
+}
+
+.ei-title h3 {
+	font-size: 24px;
+	text-transform: none;
+}
+
+.ei-title h6 {
+	color: #fff;
+	background: #333;
+}
+
